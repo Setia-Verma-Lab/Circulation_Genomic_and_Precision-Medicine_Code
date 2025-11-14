@@ -1,5 +1,7 @@
 # Circulation Genomic and Precision-Medicine Code
 This repository includes code used to generate data and figures in this publication
+DOI: 
+Email: marie.guerraty@pennmedicine.upenn.edu
 
 ### 1. Partek code: 
 Data were downloaded from GEO and analyzed using Partek implementation of R code. The code is shown for undifferentiated iPSCs and is the same as that used for human heart tissue data.
