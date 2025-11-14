@@ -1,6 +1,6 @@
 # Circulation Genomic and Precision-Medicine Code
-This repository includes code used to generate data and figures in this publication
-DOI: 
+This repository includes code used to generate data and figures in this publication<br />
+DOI: <br />
 Email questions to: marie.guerraty@pennmedicine.upenn.edu
 
 ### 1. Partek code: 
