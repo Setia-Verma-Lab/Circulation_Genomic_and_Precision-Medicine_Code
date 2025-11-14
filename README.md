@@ -1,4 +1,4 @@
-# Circulation_Genomic_and_Precision-Medicine_Code
+# Circulation Genomic and Precision-Medicine Code
 This repository includes code used to generate data and figures in this publication
 
 ### 1. Partek code: 
