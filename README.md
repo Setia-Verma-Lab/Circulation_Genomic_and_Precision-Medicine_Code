@@ -11,5 +11,5 @@ Phewas was run on the FOG2 variant `chr8:105802051:A:G` for participants of the 
 https://github.com/Setia-Verma-Lab/Circulation_Genomic_and_Precision-Medicine_Code/blob/main/phewas.R
 ### 3. Manhattan plot code: 
 Manhattan plot was made for the PheWAS results using `ggplot2` in R.<br />
-Red line on the manhattan plot is idicating the Bonferroni thresholding (p = 2.76e-05)
+Red line on the manhattan plot is idicating the Bonferroni thresholding (p = 2.76e-05)<br />
 https://github.com/Setia-Verma-Lab/Circulation_Genomic_and_Precision-Medicine_Code/blob/main/manhattan_plot.R
